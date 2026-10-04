@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-04",
+  "images": [
+    {
+      "page": 1,
+      "src": "./images/1.jpg"
+    },
+    {
+      "page": 2,
+      "src": "./images/2.jpg"
+    },
+    {
+      "page": 3,
+      "src": "./images/3.jpg"
+    },
+    {
+      "page": 4,
+      "src": "./images/4.jpg"
+    },
+    {
+      "page": 5,
+      "src": "./images/5.jpg"
+    },
+    {
+      "page": 6,
+      "src": "./images/6.jpg"
+    }
+  ]
+}
